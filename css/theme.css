@@ -276,7 +276,7 @@ hgroup h2 + h1, hgroup h1 + h2{
 
 .column-info img{
 	width:100%;
-	height:auto;
+	height:200px;
 }
 .column-info > div > span{
 	display:block;
